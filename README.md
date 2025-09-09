@@ -61,7 +61,7 @@ This project aims to build a Power BI dashboard using the Loan Portfolio dataset
                                                                                                                                                                             
 ### 📍Page 2: Overview <br>
 
-<img width="633" height="359" alt="image" src="https://github.com/user-attachments/assets/961d6788-45d2-45fd-beac-22d73f225313" /> <br>
+<img width="633" height="357" alt="image" src="https://github.com/user-attachments/assets/961d6788-45d2-45fd-beac-22d73f225313" /> <br>
 
 **🎯Target:** Analyze the characteristics of existing customer profiles <br>
 **💡Key visuals and Insights:** <br>
