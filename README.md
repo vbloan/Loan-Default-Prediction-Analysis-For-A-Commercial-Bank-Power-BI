@@ -145,15 +145,16 @@ This project aims to build a Power BI dashboard using the Loan Portfolio dataset
 | Income & Employment Profile| Higher default rates among customers with: <br> - Low income <br> - A high debt-to-income (DTI) ratio (>51%) <br> - A limited or unstable employment history, including unemployment and a short duration of employment (under 1 year) |
 | Credit profile | Higher default rates among borrowers who <br> - have a very low credit score <br> - possess a high number of credit lines <br> -lack a mortgage |
 ## ✅Recommendations
-**1. Tăng cường Đánh giá Rủi ro với Các Nhóm Khách hàng Nhạy cảm 📈** <br>
-Ngân hàng nên áp dụng các tiêu chí xét duyệt nghiêm ngặt hơn cho những khách hàng thuộc nhóm rủi ro cao. Cần đặc biệt chú ý đến các hồ sơ có: <br>
-- Tỷ lệ nợ trên thu nhập (DTI) cao (>51%). <br>
-- Hồ sơ việc làm không ổn định (thất nghiệp hoặc thời gian làm việc ngắn dưới 1 năm). <br>
-- Điểm tín dụng rất thấp. <br>
-- Số lượng hạn mức tín dụng hiện có cao nhưng thiếu khoản vay thế chấp. <br>
+**1. Strengthen Risk Assessment for Vulnerable Customer Segments 📈**
+The bank should apply stricter underwriting criteria for high-risk customers. Special attention is needed for applicants with: <br>
+- A high Debt-to-Income (DTI) ratio (>51%). <br>
+- Unstable employment history (unemployed or less than one year of employment). <br>
+- A very low credit score. <br>
+- A high number of existing credit lines but lacking a mortgage. <br>
 
-**2. Điều chỉnh Chính sách Cho vay dựa trên Hồ sơ Nhân khẩu học 🎯** <br>
-Thiết lập các điều kiện vay vốn linh hoạt hơn, phù hợp với từng đặc điểm nhân khẩu học. Ví dụ, với nhóm khách hàng trẻ tuổi (dưới 40 tuổi) có tình trạng hôn nhân không ổn định hoặc chỉ có trình độ học vấn trung học phổ thông, ngân hàng có thể cân nhắc: <br>
-- Giảm số tiền vay tối đa để hạn chế rủi ro. <br>
-- Yêu cầu thêm tài sản đảm bảo hoặc đồng vay. <br>
+**2. Adjust Lending Policies Based on Demographic Profiles 🎯** <br>
+Establish more flexible loan conditions tailored to specific demographic traits. For example, for younger customers (under 40) with an unstable marital status or only a high school education, the bank could consider: <br>
+- Reducing the maximum loan amount to limit risk. <br>
+- Requiring additional collateral or a co-signer.
+
 
