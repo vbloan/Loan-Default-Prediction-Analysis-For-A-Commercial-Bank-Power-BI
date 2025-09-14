@@ -145,7 +145,7 @@ This project aims to build a Power BI dashboard using the Loan Portfolio dataset
 | Income & Employment Profile| Higher default rates among customers with: <br> - Low income <br> - A high debt-to-income (DTI) ratio (>51%) <br> - A limited or unstable employment history, including unemployment and a short duration of employment (under 1 year) |
 | Credit profile | Higher default rates among borrowers who <br> - have a very low credit score <br> - possess a high number of credit lines <br> -lack a mortgage |
 ## ✅Recommendations
-**1. Strengthen Risk Assessment for Vulnerable Customer Segments 📈**
+**1. Strengthen Risk Assessment for Vulnerable Customer Segments 📈** <br>
 The bank should apply stricter underwriting criteria for high-risk customers. Special attention is needed for applicants with: <br>
 - A high Debt-to-Income (DTI) ratio (>51%). <br>
 - Unstable employment history (unemployed or less than one year of employment). <br>
